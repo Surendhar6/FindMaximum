@@ -6,7 +6,7 @@ To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-3.	
+
 ## Algorithm:
 1.	Get the list of marks as input
 2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
